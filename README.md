@@ -9,6 +9,9 @@ I'm a passionate software engineering graduate specializing in back-end and ML/A
 - **Databases:** MySQL
 - **Tools & Platforms:** Git
 
+## Project Repositories
+- [Raytheon Predictive Analytics](https://github.com/r-bae1/Predictive-Analytics)
+
 ## How to Reach Me
 
 - LinkedIn: http://www.linkedin.com/in/ryan-m-bae1
